@@ -2,6 +2,9 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+//Basic Calculator App
+//Practising the use of Jframe and apps
+
 public class Calculator implements  ActionListener {
 
     JFrame frame;
